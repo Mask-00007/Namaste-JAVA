@@ -11,11 +11,14 @@ This repository is a collection of everything I’m learning while building a st
 
 ### 🔹 Core Topics Covered
 
-* 🧱 Object-Oriented Programming (OOPs)
-* 📦 Collections Framework
-* 🧬 Generics in Java
-* 🧵 Polymorphism in Java
-* ⏱️ Time & Space Complexity
+* 🧱 Object-Oriented Programming (OOPs) — classes, objects, abstraction, encapsulation
+* 📦 Collections Framework — List, Set, Map, Queue implementations
+* 🧬 Generics in Java — type safety and reusable code
+* 🧵 Polymorphism in Java — method overloading (compile-time) and method overriding (runtime)
+* ⏱️ Time & Space Complexity — analyzing algorithm efficiency
+* 🔢 Bitwise Operators — AND, OR, XOR, NOT, shifts
+* 📊 Array Problems — searching, sorting, frequency, union/intersection
+* 🛠️ Basic Array Manipulation — insert, delete, reverse, rotate, shift
 
 ---
 
@@ -23,12 +26,16 @@ This repository is a collection of everything I’m learning while building a st
 
 Each folder represents a specific concept or milestone in my learning journey:
 
-| Folder                 | Description                          |
-| ---------------------- | ------------------------------------ |
-| `OOPS`                 | Object-Oriented Programming concepts |
-| `Inheritance`          | Inheritance Concept in Java           |
-| `Collections`          | Java Collections Framework           |
-| `Polymorphism`          | Java Polymorphism(method overloading (compile-time) and method overriding (runtime) |           |
+| Folder                   | Description                                                                 |
+| ------------------------ | --------------------------------------------------------------------------- |
+| `OOPS`                   | Object-Oriented Programming concepts (classes, objects, abstraction, etc.) |
+| `Inheritance`            | Demonstrates inheritance in Java (single, multilevel, hierarchical)         |
+| `Collections`            | Java Collections Framework (List, Set, Map, Queue implementations)          |
+| `Polymorphism`           | Java Polymorphism (method overloading = compile-time, method overriding = runtime) |
+| `Bitwise Operator`       | Bitwise operations in Java (`&`, `|`, `^`, `~`, `<<`, `>>`, `>>>`)          |
+| `ArrayProblems`          | Common array problems (searching, sorting, frequency, union/intersection)   |
+| `Basic Array Manipulation` | Basic array operations (insert, delete, reverse, rotate, shift)           |
+        |
 
 
 
