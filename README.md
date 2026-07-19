@@ -32,7 +32,7 @@ Each folder represents a specific concept or milestone in my learning journey:
 | `Inheritance`            | Demonstrates inheritance in Java (single, multilevel, hierarchical)         |
 | `Collections`            | Java Collections Framework (List, Set, Map, Queue implementations)          |
 | `Polymorphism`           | Java Polymorphism (method overloading = compile-time, method overriding = runtime) |
-| `Bitwise Operator`       | Bitwise operations in Java (`&`, `|`, `^`, `~`, `<<`, `>>`, `>>>`)          |
+| `Bitwise Operator`       | Bitwise operations in Java           |
 | `ArrayProblems`          | Common array problems (searching, sorting, frequency, union/intersection)   |
 | `Basic Array Manipulation` | Basic array operations (insert, delete, reverse, rotate, shift)           |
         |
