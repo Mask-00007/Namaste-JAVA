@@ -26,16 +26,21 @@ This repository is a collection of everything I’m learning while building a st
 
 Each folder represents a specific concept or milestone in my learning journey:
 
-| Folder                   | Description                                                                 |
-| ------------------------ | --------------------------------------------------------------------------- |
-| `OOPS`                   | Object-Oriented Programming concepts (classes, objects, abstraction, etc.) |
-| `Inheritance`            | Demonstrates inheritance in Java (single, multilevel, hierarchical)         |
-| `Collections`            | Java Collections Framework (List, Set, Map, Queue implementations)          |
-| `Polymorphism`           | Java Polymorphism (method overloading = compile-time, method overriding = runtime) |
-| `Bitwise Operator`       | Bitwise operations in Java           |
-| `ArrayProblems`          | Common array problems (searching, sorting, frequency, union/intersection)   |
-| `Basic Array Manipulation` | Basic array operations (insert, delete, reverse, rotate, shift)           |
-        |
+| Folder | Description |
+| --- | --- |
+| ``OOPS`` | Object-Oriented Programming concepts (classes, objects, abstraction, encapsulation, etc.) |
+| ``Inheritance`` | Demonstrates inheritance in Java (single, multilevel, hierarchical) |
+| ``Polymorphism`` | Java Polymorphism (method overloading = compile-time, method overriding = runtime) |
+| ``Collections`` | Java Collections Framework (List, Set, Map, Queue implementations) |
+| ``BitwiseOperator`` | Bitwise operations in Java (AND, OR, XOR, shifts) |
+| ``ArrayProblems`` | Common array problems (searching, sorting, frequency, union/intersection) |
+| ``BasicArrayManipulation`` | Basic array operations (insert, delete, reverse, rotate, shift) |
+| ``StringProblems`` | String manipulation problems (palindrome, anagram, substring, pattern matching) |
+| ``Recursion`` | Recursive problem-solving (factorial, Fibonacci, backtracking examples) |
+| ``SortingAlgorithms`` | Implementations of sorting techniques (bubble, selection, insertion, merge, quicksort) |
+| ``SearchingAlgorithms`` | Searching techniques (linear search, binary search, variations) |
+| ``MathProblems`` | Mathematical problems (prime numbers, GCD/LCM, factorial, modular arithmetic) |
+| ``LeetCodeSolutions`` | Solutions to popular LeetCode problems (Two Sum, Three Sum, Four Sum, etc.) |
 
 
 
