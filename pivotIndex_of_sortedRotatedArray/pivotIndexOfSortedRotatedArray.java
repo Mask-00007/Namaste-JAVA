@@ -13,7 +13,7 @@ public class pivotIndexOfSortedRotatedArray {
 
         while (s < e) {
             int mid = s + (e - s) / 2;
-            if (nums[mid] < nums[n - 1]) {
+            if (nums[mid] <= nums[n - 1]) {
                 e = mid - 1;
             } else {
                 ans = mid;
